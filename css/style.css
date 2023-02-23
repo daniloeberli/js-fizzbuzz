@@ -1,0 +1,28 @@
+body{
+    background-color: darkcyan;
+}
+
+h1{
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+}
+
+li{
+    list-style: none;
+    font-size: 20px;
+}
+
+.fizzbuzz{
+    color: yellow;
+}
+
+.fizz{
+    color: red;
+}
+
+.buzz{
+    color:darkmagenta;
+}
