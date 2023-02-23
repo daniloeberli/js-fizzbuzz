@@ -7,3 +7,6 @@ Infine stampiano in console i vari risultati.
 Bonus 1:
 Definisco una variabile relativa al mio ul presente nel documento html.
 Dentro al ciclo definisco una seconda variabile, relativa ai vari li, che verranno inseriti nel documento attraverso .createElement. A seconda del caso in cui ci troviamo ( multiplo 3,5, entrambi) andiamo a inserire una classe che andrà a stilizzare il risultato.
+
+Bonus 2:
+All'interno del ciclo, nella sezione relativa ai vari classList.add dei li, aggiungiamo la classe box che costruirà i vari quadrati che conterranno i nostri elementi. Inoltre aggiungiamo sempre con classList.Add i colori relativi ai vari Fizz,Buzz,FizzBuzz e numero.
