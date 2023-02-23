@@ -2,4 +2,4 @@ Creiamo un ciclo for, definendo una variabile i contatore che partirà da 1 fino
 multiplo di 3: i%3===0
 multiplo di 5: i%5==0
 multiplo di entrambi i%3===0 && i%5===0
-Infine stampiano in console i vari risultati
+Infine stampiano in console i vari risultati.
