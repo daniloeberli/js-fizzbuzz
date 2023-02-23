@@ -1,28 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body{
-    background-color: darkcyan;
+    background-color: #083b4c;
+    font-family: 'Roboto', sans-serif;
 }
 
 h1{
     text-align: center;
+    color: white;
+    font-size: 40px;
+    padding: 20px 0;
+}
+
+.container{
+    padding: 50px;
 }
 
 ul{
     text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    line-height: 150px;
+    gap: 30px;
 }
+
 
 li{
     list-style: none;
     font-size: 20px;
 }
 
+.box{
+    height: 150px;
+    width: 150px;
+}
+
 .fizzbuzz{
-    color: yellow;
+    background-color: yellow;
 }
 
 .fizz{
-    color: red;
+    background-color: red;
 }
 
 .buzz{
-    color:darkmagenta;
+    background-color:darkmagenta;
+}
+
+.num{
+    background-color: chartreuse;
 }
