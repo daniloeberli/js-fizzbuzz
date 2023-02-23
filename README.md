@@ -3,3 +3,7 @@ multiplo di 3: i%3===0
 multiplo di 5: i%5==0
 multiplo di entrambi i%3===0 && i%5===0
 Infine stampiano in console i vari risultati.
+
+Bonus 1:
+Definisco una variabile relativa al mio ul presente nel documento html.
+Dentro al ciclo definisco una seconda variabile, relativa ai vari li, che verranno inseriti nel documento attraverso .createElement. A seconda del caso in cui ci troviamo ( multiplo 3,5, entrambi) andiamo a inserire una classe che andrà a stilizzare il risultato.
